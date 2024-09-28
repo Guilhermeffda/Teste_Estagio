@@ -3,6 +3,7 @@ Este é um teste para uma vaga de estágio, onde eu precisei realizar 5 questõe
 ----------------------
 # Questão 1
 Na primeira questão precisei implementar um trecho de um código para conseguir dizer qual seria o seu resultado.
+
 O trecho:
 text
 int INDICE = 13, SOMA = 0, K = 0;
@@ -12,7 +13,9 @@ Imprimir(SOMA);
 ----------------------
 
 # Questão 2
-Na questão 2 eu precisei implementar a sequência de Fibonacci (onde se inicia por 0 e 1, e seus próximos valores sempre serão a soma dos dois anteriores), e nesse código o usuário poderia escolher qual número ele quiser, e o código irá verificar se ele faz parte da sequência de Fibonacci, e dependendo da resposta ele pode avisar se faz ou não faz parte da sequência.
+Na questão 2 eu precisei implementar a sequência de Fibonacci (onde se inicia por 0 e 1, e seus próximos valores sempre serão a soma dos dois anteriores. 
+
+E nesse código o usuário poderia escolher qual número ele quiser, e o código irá verificar se ele faz parte da sequência de Fibonacci, e dependendo da resposta ele pode avisar se faz ou não faz parte da sequência.
 
 ----------------------
 
