@@ -18,9 +18,14 @@ Na questão 2 eu precisei implementar a sequência de Fibonacci (onde se inicia 
 
 # Questão 3
 Na questão 3 eu precisei criar um código que calcule e retorne:
+
 • O menor valor de faturamento ocorrido em um dia do mês;
+
 • O maior valor de faturamento ocorrido em um dia do mês;
+
 • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
+
+
 Essas informações dos valores foram retiradas do arquivo JSON, e havia uma regra nessa questão onde se houvesse algum dia que o faturamento fosse igual a 0, esse dia deveria ser ignorado.
 
 ----------------------
